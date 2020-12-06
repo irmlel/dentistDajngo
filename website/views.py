@@ -15,7 +15,7 @@ def contact(request):
 			message_name, # subject
 			message, # message
 			message_email, # from email
-			['irmantas.lelius@gmail.com'], # to email
+			['irmaszz@gmail.com'], # to email
 			fail_silently=False,
 			)
 
